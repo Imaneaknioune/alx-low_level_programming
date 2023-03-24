@@ -12,9 +12,4 @@ int _isdigit(int c)
 		return (1);
 	else
 		return (0);
-}
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privac
+}c
